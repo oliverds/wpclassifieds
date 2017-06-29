@@ -1,0 +1,575 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: anunciamex\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: _dev/page-blog.php:18
+#: _dev/comments.php:16
+#: _dev/page-blog-post.php:14
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#. Text in function
+#: _dev/index.php:38
+msgid "%s ago"
+msgstr "il y a %s"
+
+#. Text in function
+#: _dev/page-blog.php:18
+#: _dev/page-blog-post.php:14
+msgid "(Edit)"
+msgstr ""
+
+#. Text in echo
+#: _dev/comments.php:64
+msgid "(required)"
+msgstr "(obligatoire)"
+
+#. Text in echo
+#: _dev/page-publish.php:199
+#: _dev/comments.php:68
+#: _dev/page-edit.php:184
+msgid "(will not be published)"
+msgstr "(ne sera pas publié)"
+
+#. Text in function
+#: _dev/page-blog.php:18
+#: _dev/page-blog-post.php:14
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: _dev/page-publish.php:14
+msgid "Ad Confirmation"
+msgstr ""
+
+#. Text in function
+#: _dev/sidebar.php:8
+msgid "All categories"
+msgstr ""
+
+#. Text in function
+#: _dev/includes/yoast_breadcrumbs.php:1
+msgid "Archives for"
+msgstr ""
+
+#. Text in echo
+#: _dev/page-publish.php:166
+msgid "Category"
+msgstr "Categorie"
+
+#. Text in echo
+#: _dev/contact_owner.php:62
+#: _dev/page-contact.php:84
+msgid "Contact"
+msgstr "Contacter"
+
+#. Text in echo
+#: _dev/contact_owner.php:1
+msgid "Contact Ad Owner"
+msgstr "Contacter le vendeur"
+
+#. Text in echo
+#: _dev/single.php:18
+msgid "Contact Name"
+msgstr "Nom de contact"
+
+#. Text in echo
+#: _dev/page-publish.php:178
+#: _dev/page-edit.php:162
+msgid "Detailed description"
+msgstr "Description détaillée"
+
+#. Text in echo
+#: _dev/page-publish.php:199
+#: _dev/comments.php:68
+#: _dev/page-edit.php:184
+#: _dev/page-edit.php:275
+#: _dev/contact_owner.php:44
+#: _dev/page-contact.php:61
+msgid "Email"
+msgstr "Email"
+
+#. Text in function
+#: _dev/page-blog.php:9
+#: _dev/page-publish.php:9
+#: _dev/index.php:3
+#: _dev/page-full.php:9
+#: _dev/page.php:3
+#: _dev/page-edit.php:9
+#: _dev/single.php:3
+#: _dev/header.php:45
+#: _dev/page-contact.php:9
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: _dev/page-blog.php:18
+#: _dev/comments.php:49
+#: _dev/page-blog-post.php:14
+msgid "Leave a Comment"
+msgstr "Laisser un message"
+
+#. Text in echo
+#: _dev/page-publish.php:191
+#: _dev/page-edit.php:176
+#: _dev/single.php:27
+msgid "Location"
+msgstr "Localisation"
+
+#. Text in echo
+#: _dev/comments.php:60
+msgid "Logged in as"
+msgstr "Connecté en tant que"
+
+#. Text in echo
+#: _dev/comments.php:60
+msgid "Logout"
+msgstr "Déconnecter"
+
+#. Text in function
+#: _dev/page-edit.php:226
+msgid "Manage your Ad"
+msgstr ""
+
+#. Text in echo
+#: _dev/contact_owner.php:49
+#: _dev/page-contact.php:71
+msgid "Message"
+msgstr "Message"
+
+#. Text in function
+#: _dev/page-edit.php:226
+#: _dev/contact_owner.php:2
+#: _dev/page-contact.php:18
+msgid "Message sent, thank you."
+msgstr "Message envoyé merci"
+
+#. Text in echo
+#: _dev/sidebar.php:53
+msgid "Most New"
+msgstr "Plus récent"
+
+#. Text in echo
+#: _dev/sidebar.php:65
+msgid "Most Popular"
+msgstr "Plus demandé"
+
+#. Text in echo
+#: _dev/comments.php:64
+msgid "Name"
+msgstr "Nom"
+
+#. Text in function
+#: _dev/comments.php:16
+msgid "No Comments"
+msgstr "Sans commentaires"
+
+#. Text in echo
+#: _dev/404.php:4
+msgid "Not Found, Error 404"
+msgstr ""
+
+#. Text in function
+#: _dev/page-publish.php:14
+#: _dev/page-edit.php:38
+#: _dev/page-edit.php:226
+#: _dev/contact_owner.php:2
+#: _dev/page-contact.php:18
+msgid "Not valid email address"
+msgstr "Ceci n'est pas un email valide"
+
+#. Text in echo
+#: _dev/page-edit.php:223
+msgid "Nothing found"
+msgstr "Rien trouvé"
+
+#. Text in function
+#: _dev/comments.php:16
+msgid "One Comment"
+msgstr "Un commentaire"
+
+#. Text in echo
+#: _dev/page-publish.php:174
+#: _dev/page-edit.php:158
+msgid "Only numbers"
+msgstr ""
+
+#. Text in echo
+#: _dev/page-publish.php:174
+#: _dev/page-publish.php:191
+#: _dev/page-publish.php:203
+#: _dev/page-publish.php:207
+#: _dev/page-edit.php:158
+#: _dev/page-edit.php:176
+#: _dev/page-edit.php:188
+#: _dev/page-edit.php:192
+msgid "Optional"
+msgstr ""
+
+#. Text in echo
+#: _dev/home.php:36
+#: _dev/home.php:37
+#: _dev/sidebar.php:69
+msgid "Permanent link to"
+msgstr "Lien permanent"
+
+#. Text in echo
+#: _dev/single.php:30
+msgid "Phone"
+msgstr "téléphone"
+
+#. Text in function
+#: _dev/page-publish.php:14
+#: _dev/page-publish.php:216
+#: _dev/page-edit.php:38
+#: _dev/page-edit.php:201
+msgid "Picture"
+msgstr "Photos"
+
+#. Text in function
+#: _dev/page-publish.php:14
+#: _dev/page-edit.php:38
+#: _dev/contact_owner.php:2
+#: _dev/page-contact.php:18
+msgid "Please complete the mandatory fields."
+msgstr "Complétez les champs obligatoires"
+
+#. Text in function
+#: _dev/comments.php:1
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Ne pas charger cette page directement, merci!"
+
+#. Text in function
+#: _dev/page-publish.php:14
+msgid "Please select a category"
+msgstr "Sélectionner une catégorie"
+
+#. Text in function
+#: _dev/page-publish.php:14
+#: _dev/page-edit.php:38
+msgid "Please select a region"
+msgstr "Selectionner une région"
+
+#. Text in echo
+#: _dev/home.php:7
+msgid "Popular Categories"
+msgstr "Categories populaires"
+
+#. Text in echo
+#: _dev/page-publish.php:174
+#: _dev/page-edit.php:158
+#: _dev/single.php:21
+msgid "Price"
+msgstr "Prix"
+
+#. Text in echo
+#: _dev/page-publish.php:232
+msgid "Publish"
+msgstr "Publier"
+
+#. Text in echo
+#: _dev/single.php:16
+msgid "Publish date"
+msgstr "Date de publication"
+
+#. Text in function
+#: _dev/contact_owner.php:2
+msgid "Re:"
+msgstr ""
+
+#. Text in echo
+#: _dev/page-edit.php:290
+msgid "Recover"
+msgstr ""
+
+#. Text in echo
+#: _dev/page-publish.php:183
+#: _dev/page-edit.php:167
+#: _dev/single.php:24
+msgid "Region"
+msgstr "Région"
+
+#. Text in echo
+#: _dev/sidebar.php:31
+msgid "Regions"
+msgstr "Département"
+
+#. Text in echo
+#: _dev/single.php:64
+msgid "Report bad use or Spam"
+msgstr "Signaler comme spam ou autres"
+
+#. Text in echo
+#: _dev/index.php:9
+msgid "Results for "
+msgstr ""
+
+#. Text in echo
+#: _dev/comments.php:23
+msgid "Says"
+msgstr "dit"
+
+#. Text in echo
+#: _dev/sidebar.php:9
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: _dev/sidebar.php:5
+msgid "Search Classified Ads"
+msgstr ""
+
+#. Text in function
+#: _dev/includes/yoast_breadcrumbs.php:1
+msgid "Search for"
+msgstr ""
+
+#. Text in echo
+#: _dev/sidebar.php:7
+msgid "Search..."
+msgstr "Chercher..."
+
+#. Text in echo
+#: _dev/page-publish.php:185
+msgid "Select Region"
+msgstr ""
+
+#. Text in function
+#: _dev/page-publish.php:167
+msgid "Select category"
+msgstr ""
+
+#. Text in echo
+#: _dev/single.php:57
+#: _dev/single.php:58
+#: _dev/single.php:59
+#: _dev/single.php:60
+msgid "Share"
+msgstr "Partager"
+
+#. Text in echo
+#: _dev/sidebar.php:40
+msgid "Similar Ads"
+msgstr "Annonces similaires"
+
+#. Text in echo
+#: _dev/sidebar.php:16
+msgid "Subcategories"
+msgstr "Sous-catégorie"
+
+#. Text in echo
+#: _dev/page-contact.php:66
+msgid "Subject"
+msgstr "Sujet"
+
+#. Text in echo
+#: _dev/comments.php:80
+msgid "Submit Comment"
+msgstr "Envoyer le commentaire"
+
+#. Text in echo
+#: _dev/single.php:33
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: _dev/page-publish.php:207
+#: _dev/page-edit.php:192
+msgid "Tags (comma seperated)"
+msgstr ""
+
+#. Text in function
+#: _dev/page-publish.php:14
+msgid "Thank you! Check your email inbox to confirm your ad"
+msgstr "Merci! Vérifie ta boite aux lettre, pour l'email de confirmation"
+
+#. Text in function
+#: _dev/page-publish.php:14
+#: _dev/page-edit.php:38
+#: _dev/page-edit.php:226
+#: _dev/contact_owner.php:2
+#: _dev/page-contact.php:18
+msgid "The captcha is wrong!"
+msgstr "Captcha incorrect."
+
+#. Text in function
+#: _dev/page-publish.php:14
+msgid "The category selected does not exist"
+msgstr "La catégorie sélectionnée n'existe pas"
+
+#. Text in echo
+#: _dev/404.php:5
+msgid "The page you are looking for no longer exists. Perhaps you can return back to the site's"
+msgstr ""
+
+#. Text in function
+#: _dev/page-publish.php:14
+#: _dev/page-edit.php:38
+msgid "The region selected does not exist"
+msgstr "La région n'existe pas"
+
+#. Text in function
+#: _dev/page-edit.php:226
+msgid "There are no ads with this email."
+msgstr ""
+
+#. Text in echo
+#: _dev/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Post protégé par mot de passe, veuiller l'entrer"
+
+#. Text in echo
+#: _dev/page-publish.php:170
+#: _dev/page-edit.php:154
+msgid "Title"
+msgstr "Titre"
+
+#. Text in echo
+#: _dev/page-edit.php:270
+msgid "To recover the email with links to edit and delete your ads, enter your information below."
+msgstr ""
+
+#. Text in echo
+#: _dev/page-publish.php:222
+#: _dev/page-edit.php:207
+#: _dev/page-edit.php:280
+msgid "Type the two words"
+msgstr ""
+
+#. Text in echo
+#: _dev/page-edit.php:217
+msgid "Update"
+msgstr "Actualiser"
+
+#. Text in function
+#: _dev/page-edit.php:38
+msgid "Updated Ad"
+msgstr "Annonce actualisée"
+
+#. Text in function
+#: _dev/page-publish.php:14
+#: _dev/page-publish.php:212
+#: _dev/page-edit.php:38
+#: _dev/page-edit.php:197
+msgid "Upload pictures max file size"
+msgstr "la taille maximal pour chaque photo"
+
+#. Text in function
+#: _dev/page-publish.php:14
+#: _dev/page-edit.php:38
+#: _dev/contact_owner.php:2
+#: _dev/page-contact.php:18
+msgid "Ups!Spam? if you are not spam contact us."
+msgstr "¡Oups! Spam? Si tu n'es pas un spam, contacte nous"
+
+#. Text in echo
+#: _dev/comments.php:72
+msgid "Website"
+msgstr "Site Web"
+
+#. Text in function
+#: _dev/includes/yoast_breadcrumbs.php:1
+msgid "You are here:"
+msgstr ""
+
+#. Text in echo
+#: _dev/comments.php:53
+msgid "You must be"
+msgstr "Vous devez être"
+
+#. Text in echo
+#: _dev/page-edit.php:27
+msgid "Your ad has been confirmed, thank you"
+msgstr "Ton annonce est confirmé merci"
+
+#. Text in echo
+#: _dev/page-edit.php:35
+msgid "Your ad has been deleted"
+msgstr "Ton annonce a été supprimé"
+
+#. Text in echo
+#: _dev/comments.php:25
+msgid "Your comment is awaiting moderation."
+msgstr "Commentaire en attente"
+
+#. Text in echo
+#: _dev/page-publish.php:203
+#: _dev/page-edit.php:188
+msgid "Your contact phone number (published)"
+msgstr "Telephone (publié)"
+
+#. Text in echo
+#: _dev/page-publish.php:195
+#: _dev/page-edit.php:180
+#: _dev/contact_owner.php:39
+#: _dev/page-contact.php:56
+msgid "Your name"
+msgstr "Votre nom"
+
+#. Text in function
+#: _dev/page-blog.php:21
+msgid "[Read more]"
+msgstr ""
+
+#. Text in echo
+#: _dev/404.php:5
+msgid "and see if you can find what you are looking for."
+msgstr ""
+
+#. Text in echo
+#: _dev/comments.php:29
+msgid "at"
+msgstr "à"
+
+#. Text in echo
+#: _dev/page-blog.php:18
+#: _dev/page-blog-post.php:14
+msgid "by"
+msgstr ""
+
+#. Text in function
+#: _dev/contact_owner.php:2
+msgid "contacted you for the Ad"
+msgstr "t'a contacté pour ton annonce"
+
+#. Text in function
+#: _dev/page-publish.php:14
+#: _dev/page-publish.php:212
+#: _dev/page-edit.php:38
+#: _dev/page-edit.php:197
+msgid "format"
+msgstr "format"
+
+#. Text in echo
+#: _dev/404.php:5
+msgid "homepage"
+msgstr ""
+
+#. Text in echo
+#: _dev/index.php:9
+msgid "in"
+msgstr "en"
+
+#. Text in echo
+#: _dev/comments.php:53
+msgid "logged in"
+msgstr "connecté"
+
+#. Text in echo
+#: _dev/comments.php:16
+msgid "to"
+msgstr "à"
+
+#. Text in echo
+#: _dev/comments.php:53
+msgid "to post a comment."
+msgstr "pour envoyer un commentaire"
+

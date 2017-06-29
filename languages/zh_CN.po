@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mbgz.info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-07 14:15+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: eric <manboo.info@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:4
+msgid "Not Found, Error 404"
+msgstr "404错误。"
+
+#: 404.php:5
+msgid "The page you are looking for no longer exists. Perhaps you can return back to the site's"
+msgstr "请求的页面不存在，你可以返回"
+
+#: 404.php:5
+msgid "homepage"
+msgstr "首页"
+
+#: 404.php:5
+msgid "and see if you can find what you are looking for."
+msgstr "寻找其它相关信息。"
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr "请不要直接打开该页面！"
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "该广告已加密，请输入密码！"
+
+#: comments.php:16
+msgid "No Comments"
+msgstr "没有评论"
+
+#: comments.php:16
+msgid "One Comment"
+msgstr "一条评论"
+
+#: comments.php:16
+#: page-blog-post.php:14
+#: page-blog.php:18
+msgid "% Comments"
+msgstr "% 评论数"
+
+#: comments.php:16
+msgid "to"
+msgstr "："
+
+#: comments.php:23
+msgid "Says"
+msgstr " "
+
+#: comments.php:25
+msgid "Your comment is awaiting moderation."
+msgstr "评论已提交，等待审核中。"
+
+#: comments.php:29
+msgid "at"
+msgstr " "
+
+#: comments.php:49
+#: page-blog-post.php:14
+#: page-blog.php:18
+msgid "Leave a Comment"
+msgstr "发表评论"
+
+#: comments.php:53
+msgid "You must be"
+msgstr "你必须"
+
+#: comments.php:53
+msgid "logged in"
+msgstr "登录"
+
+#: comments.php:53
+msgid "to post a comment."
+msgstr "才可以发表评论"
+
+#: comments.php:60
+msgid "Logged in as"
+msgstr "登录"
+
+#: comments.php:60
+msgid "Logout"
+msgstr "退出"
+
+#: comments.php:64
+msgid "Name"
+msgstr "姓名"
+
+#: comments.php:64
+msgid "(required)"
+msgstr "(必填)"
+
+#: comments.php:68
+#: contact_owner.php:44
+#: page-contact.php:61
+#: page-edit.php:184
+#: page-edit.php:275
+#: page-publish.php:199
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:68
+#: page-edit.php:184
+#: page-publish.php:199
+msgid "(will not be published)"
+msgstr "(不会被公布)"
+
+#: comments.php:72
+msgid "Website"
+msgstr "网站"
+
+#: comments.php:80
+msgid "Submit Comment"
+msgstr "提交评论"
+
+#: contact_owner.php:1
+msgid "Contact Ad Owner"
+msgstr "联系发布者"
+
+#: contact_owner.php:8
+#: page-contact.php:24
+#: page-edit.php:44
+#: page-edit.php:231
+#: page-publish.php:20
+msgid "The captcha is wrong!"
+msgstr "验证码错误，请重新输入！"
+
+#: contact_owner.php:12
+#: page-contact.php:28
+#: page-edit.php:48
+#: page-edit.php:235
+#: page-publish.php:24
+msgid "Not valid email address"
+msgstr "Email地址不正确"
+
+#: contact_owner.php:16
+#: page-contact.php:32
+#: page-edit.php:52
+#: page-publish.php:28
+msgid "Ups!Spam? if you are not spam contact us."
+msgstr "垃圾广告？如有异议请联系我们！"
+
+#: contact_owner.php:20
+#: page-contact.php:36
+#: page-edit.php:56
+#: page-publish.php:44
+msgid "Please complete the mandatory fields."
+msgstr "请填完所有必填项"
+
+#: contact_owner.php:24
+msgid "Re:"
+msgstr "回复："
+
+#: contact_owner.php:25
+msgid "contacted you for the Ad"
+msgstr "有人联系你发布的广告"
+
+#: contact_owner.php:30
+#: page-contact.php:46
+#: page-edit.php:259
+msgid "Message sent, thank you."
+msgstr "留言已发送至发布者Email！"
+
+#: contact_owner.php:39
+#: page-contact.php:56
+#: page-edit.php:180
+#: page-publish.php:195
+msgid "Your name"
+msgstr "联系人"
+
+#: contact_owner.php:49
+#: page-contact.php:71
+msgid "Message"
+msgstr "留言"
+
+#: contact_owner.php:62
+#: page-contact.php:84
+msgid "Contact"
+msgstr "联系"
+
+#: header.php:45
+#: index.php:3
+#: page-blog.php:9
+#: page-contact.php:9
+#: page-edit.php:9
+#: page-full.php:9
+#: page-publish.php:9
+#: page.php:3
+msgid "Home"
+msgstr "首页"
+
+#: home.php:7
+msgid "Popular Categories"
+msgstr "热门分类"
+
+#: home.php:36
+#: home.php:37
+#: sidebar.php:44
+#: sidebar.php:57
+#: sidebar.php:69
+msgid "Permanent link to"
+msgstr " "
+
+#: index.php:9
+msgid "Results for "
+msgstr "搜索结果："
+
+#: index.php:9
+msgid "in"
+msgstr "in"
+
+#: index.php:38
+#, php-format
+msgid "%s ago"
+msgstr " %s 前"
+
+#: page-blog-post.php:14
+#: page-blog.php:18
+msgid "by"
+msgstr "by"
+
+#: page-blog-post.php:14
+#: page-blog.php:18
+msgid "1 Comment"
+msgstr "1个评论"
+
+#: page-blog-post.php:14
+#: page-blog.php:18
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: page-blog.php:21
+msgid "[Read more]"
+msgstr "[查看详情]"
+
+#: page-contact.php:66
+msgid "Subject"
+msgstr "标题"
+
+#: page-edit.php:27
+msgid "Your ad has been confirmed, thank you"
+msgstr "你提交的广告已被确认激活！"
+
+#: page-edit.php:35
+msgid "Your ad has been deleted"
+msgstr "你发布的广告已经删除"
+
+#: page-edit.php:61
+#: page-publish.php:49
+msgid "Please select a region"
+msgstr "请选择一个地区"
+
+#: page-edit.php:66
+#: page-publish.php:54
+msgid "The region selected does not exist"
+msgstr "选择的地区不存在"
+
+#: page-edit.php:81
+#: page-edit.php:91
+#: page-edit.php:201
+#: page-publish.php:69
+#: page-publish.php:79
+#: page-publish.php:216
+msgid "Picture"
+msgstr "图片"
+
+#: page-edit.php:81
+#: page-edit.php:197
+#: page-publish.php:69
+#: page-publish.php:212
+msgid "Upload pictures max file size"
+msgstr "图片限制："
+
+#: page-edit.php:91
+#: page-edit.php:197
+#: page-publish.php:79
+#: page-publish.php:212
+msgid "format"
+msgstr "格式："
+
+#: page-edit.php:140
+msgid "Updated Ad"
+msgstr "更新广告"
+
+#: page-edit.php:154
+#: page-publish.php:170
+msgid "Title"
+msgstr "标题"
+
+#: page-edit.php:158
+#: page-publish.php:174
+msgid "Price"
+msgstr "价格"
+
+#: page-edit.php:158
+#: page-edit.php:176
+#: page-edit.php:188
+#: page-edit.php:192
+#: page-publish.php:174
+#: page-publish.php:191
+#: page-publish.php:203
+#: page-publish.php:207
+msgid "Optional"
+msgstr "可选"
+
+#: page-edit.php:158
+#: page-publish.php:174
+msgid "Only numbers"
+msgstr "只可以数字"
+
+#: page-edit.php:162
+#: page-publish.php:178
+msgid "Detailed description"
+msgstr "详细描述"
+
+#: page-edit.php:167
+#: page-publish.php:183
+msgid "Region"
+msgstr "地区"
+
+#: page-edit.php:176
+#: page-publish.php:191
+msgid "Location"
+msgstr "地址"
+
+#: page-edit.php:188
+#: page-publish.php:203
+msgid "Your contact phone number (published)"
+msgstr "电话号码（会公布）"
+
+#: page-edit.php:192
+#: page-publish.php:207
+msgid "Tags (comma seperated)"
+msgstr "关键词（以英文逗号分隔 ,）"
+
+#: page-edit.php:207
+#: page-edit.php:280
+#: page-publish.php:222
+msgid "Type the two words"
+msgstr "输入两个英文单词"
+
+#: page-edit.php:217
+msgid "Update"
+msgstr "更新"
+
+#: page-edit.php:223
+msgid "Nothing found"
+msgstr "没有相关信息"
+
+#: page-edit.php:254
+msgid "Manage your Ad"
+msgstr "管理你发布的广告"
+
+#: page-edit.php:262
+msgid "There are no ads with this email."
+msgstr "该Email地址未发布过广告！"
+
+#: page-edit.php:270
+msgid "To recover the email with links to edit and delete your ads, enter your information below."
+msgstr "请输入你的Email地址，找回编辑和删除广告的链接。"
+
+#: page-edit.php:290
+msgid "Recover"
+msgstr "确认"
+
+#: page-publish.php:32
+msgid "Please select a category"
+msgstr "请选择一个分类"
+
+#: page-publish.php:39
+msgid "The category selected does not exist"
+msgstr "选择的分类不存在！"
+
+#: page-publish.php:146
+msgid "Ad Confirmation"
+msgstr "广告确认激活"
+
+#: page-publish.php:150
+msgid "Thank you! Check your email inbox to confirm your ad"
+msgstr "谢谢！请检查邮箱以激活提交的广告。"
+
+#: page-publish.php:166
+msgid "Category"
+msgstr "分类"
+
+#: page-publish.php:167
+msgid "Select category"
+msgstr "选择一个分类"
+
+#: page-publish.php:185
+msgid "Select Region"
+msgstr "选择一个地区"
+
+#: page-publish.php:232
+msgid "Publish"
+msgstr "发布"
+
+#: sidebar.php:5
+msgid "Search Classified Ads"
+msgstr "搜索分类广告"
+
+#: sidebar.php:7
+msgid "Search..."
+msgstr "搜索"
+
+#: sidebar.php:8
+msgid "All categories"
+msgstr "所有分类"
+
+#: sidebar.php:9
+msgid "Search"
+msgstr "搜索"
+
+#: sidebar.php:16
+msgid "Subcategories"
+msgstr "子分类"
+
+#: sidebar.php:31
+msgid "Regions"
+msgstr "地区"
+
+#: sidebar.php:40
+msgid "Similar Ads"
+msgstr "相似广告"
+
+#: sidebar.php:53
+msgid "Most New"
+msgstr "最新广告"
+
+#: sidebar.php:65
+msgid "Most Popular"
+msgstr "最受欢迎"
+
+#: single.php:16
+msgid "Publish date"
+msgstr "发布日期"
+
+#: single.php:18
+msgid "Contact Name"
+msgstr "联系人"
+
+#: single.php:30
+msgid "Phone"
+msgstr "电话"
+
+#: single.php:33
+msgid "Tags"
+msgstr "关键词"
+
+#: single.php:57
+#: single.php:58
+#: single.php:59
+#: single.php:60
+msgid "Share"
+msgstr "分享"
+
+#: single.php:64
+msgid "Report bad use or Spam"
+msgstr "举报该广告"
+
+#: includes/wp-pagenavi.php:42
+msgid "PageNavi"
+msgstr "页面"
+
+#: includes/wp-pagenavi.php:202
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "第 %CURRENT_PAGE% 页，共 %TOTAL_PAGES% 页"
+
+#: includes/wp-pagenavi.php:205
+msgid "&laquo; First"
+msgstr "&laquo; 前一页"
+
+#: includes/wp-pagenavi.php:206
+msgid "Last &raquo;"
+msgstr "后一页 &raquo;"
+
+#: includes/wp-pagenavi.php:207
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: includes/wp-pagenavi.php:208
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: includes/wp-pagenavi.php:209
+#: includes/wp-pagenavi.php:210
+msgid "..."
+msgstr "..."
+
+#: includes/yoast_breadcrumbs.php:24
+msgid "You are here:"
+msgstr "当前位置："
+
+#: includes/yoast_breadcrumbs.php:25
+msgid "Archives for"
+msgstr "归档"
+
+#: includes/yoast_breadcrumbs.php:26
+msgid "Search for"
+msgstr "搜索"
+
+#~ msgid "Error 404 - Not Found"
+#~ msgstr "404错误！未找到该页面！"
+#~ msgid "Comments are closed."
+#~ msgstr "评论已关闭。"
+#~ msgid "If you want to edit your Ad click here:"
+#~ msgstr "点击下面链接编辑你提交的信息："
+#~ msgid "If the Ad is no longer available please click here:"
+#~ msgstr "点击下面链接删除你提交的信息："
+#~ msgid "Email with links to edit and deactivate your ads"
+#~ msgstr "含有编辑和删除已发布信息的Email"
+#~ msgid "email"
+#~ msgstr "Email"
+#~ msgid "To confirm your Ad click here:"
+#~ msgstr "点击下面链接确认你提交的信息："
+#~ msgid "Don't answer this email, answer to this account:"
+#~ msgstr "不要直接回复本Email，回复这个帐号："
+#~ msgid "Remember"
+#~ msgstr "Remember"
+
