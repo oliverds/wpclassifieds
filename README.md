@@ -1,17 +1,11 @@
 wpClassifieds
 
-Theme Page:
-http://www.open-classifieds.com/wpclassifieds
-
 Licensed under GPL
 http://www.opensource.org/licenses/gpl-license.php
 
 REQUIREMENTS:
 - Wordpress 2.8+ required
 - PHP 5+
-
-Install instructions and changelog:
-http://www.open-classifieds.com/wpclassifieds
 
 CHANGELOG:
 
