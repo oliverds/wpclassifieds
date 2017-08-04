@@ -1,5 +1,3 @@
-wpClassifieds
-
 Licensed under GPL
 http://www.opensource.org/licenses/gpl-license.php
 
